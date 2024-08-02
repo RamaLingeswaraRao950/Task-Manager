@@ -1,4 +1,4 @@
-***Task Manager*** is a web application designed to help users organize and manage their tasks efficiently by categorizing them into three priority levels: High, Medium, and Low. This intuitive tool ensures that users can focus on what matters most and keep track of their to-dos with ease.
+Designed to help users organize and manage their tasks efficiently by categorizing them into three priority levels: High, Medium, Low. This intuitive tool ensures that users can focus on what matters most and keep track of their to-dos with ease.
 
 ## Features
 - **Task Input**
