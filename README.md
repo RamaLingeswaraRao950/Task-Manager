@@ -9,7 +9,8 @@
 - **Delete Task**
   
 ## Technologies Used
-- **Frontend :** React.js, JavaScript, Tailwind, CSS3, HTML5.
+
+- React.js, JavaScript, Tailwind, CSS3, HTML5.
 
 ## Usage
 1. **Enter Task :** Type the task description in the input field labeled "Enter task."
@@ -19,24 +20,12 @@
 5. **Delete Task :** Click the delete icon or button next to a task to remove it from the list.
 
 ### Installation
-1. Clone the repository :
+1. Clone the repository : 
    
-    git clone
-   
-2. Navigate to the project directory :
+2. Navigate to the project directory : cd task-manager
     
-  cd task-manager
+3. Install the dependencies : npm install
     
-3. Install the dependencies :
-    
-  npm install
-    
-4. Install Tailwind CSS :
-   
-  npm install -D tailwindcss
-    
-  npx tailwindcss init
+4. Install Tailwind CSS : npm install -D tailwindcss   and  npx tailwindcss init
 
-5. Start the development server :
-  
-   npm start
+5. Start the development server :   npm start
