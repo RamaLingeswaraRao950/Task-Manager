@@ -1,13 +1,7 @@
 Designed to help users organize and manage their tasks efficiently by categorizing them into three priority levels:High, Medium, Low. This intuitive tool ensures that users can focus on what matters most and keep track of their to-dos with ease.
 
-## Features
-
-  Task Input, Priority Selection, Add Task, Task Display, Delete Task.
-  
-## Technologies Used
-
-  React.js, JavaScript, Tailwind, CSS3, HTML5.
-
+***Features :***  Task Input, Priority Selection, Add Task, Task Display, Delete Task.
+***Technologies Used :*** React.js, JavaScript, Tailwind, CSS3, HTML5.
 ## Usage
 1. **Enter Task :** Type the task description in the input field labeled "Enter task."
 2. **Select Priority :** Choose the priority level for the task from the dropdown menu (High Priority, Medium Priority, Low Priority).
